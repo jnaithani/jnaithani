@@ -1,6 +1,13 @@
-### Hi. 👋
+
+### Hi!
+
+“Self-education is, I firmly believe, the only kind of education there is.” - Isaac Asimov
+
+* posts: https://jnaithani.github.io/blog/
 
 <!--
+### Hi. 👋
+
 **jnaithani/jnaithani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
